@@ -1,8 +1,9 @@
 ## Solar Power Prediction with Machine Learning ##
+
 ## Project Overview ##
 This project implements a complete machine learning pipeline to predict solar power production based on various meteorological and environmental factors. The goal is to develop and evaluate several regression models to identify the most accurate one for forecasting solar energy output.
 
-🚀## Features ##
+## Features ## 
 Data Preprocessing: Handles missing values and prepares the dataset for analysis.
 
 Exploratory Data Analysis (EDA): Uses visualizations (histograms, pairplots, and heatmaps) to understand data distributions and relationships between variables.
@@ -71,13 +72,17 @@ R-squared (R2): 0.99
 Mean Squared Error (MSE): 670.78
 
 📸## Screenshots of outputs ##
-<img width="1212" height="905" alt="Screenshot 2025-09-14 171942" src="https://github.com/user-attachments/assets/e4ef5edc-d6ea-45e0-9fef-7c5db8d2e648" />
+-> <img width="1212" height="905" alt="Screenshot 2025-09-14 171942" src="https://github.com/user-attachments/assets/1f22d896-bfed-45ad-b2a8-e08a9ec9cc5b" />
+
+-> <img width="1352" height="674" alt="Screenshot 2025-09-18 235814" src="https://github.com/user-attachments/assets/73b27ff0-d5fa-4bd8-8b0f-3c276fab8328" />
 
 -> <img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/7a42dac4-c2f6-4fc0-ae7e-6bafb78ae4d8" />
+
 -> <img width="1536" height="754" alt="Figure_2" src="https://github.com/user-attachments/assets/a0294470-3d8a-47a0-987f-970f96488ba3" />
+
 -> <img width="1536" height="825" alt="Figure_3" src="https://github.com/user-attachments/assets/3bbe1f3f-0737-4e07-a1f4-2b3260f48da5" />
--> <img width="1212" height="905" alt="Screenshot 2025-09-14 171942" src="https://github.com/user-attachments/assets/1f22d896-bfed-45ad-b2a8-e08a9ec9cc5b" />
--> <img width="1352" height="674" alt="Screenshot 2025-09-18 235814" src="https://github.com/user-attachments/assets/73b27ff0-d5fa-4bd8-8b0f-3c276fab8328" />
+
+
 
 
 
