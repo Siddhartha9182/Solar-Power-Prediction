@@ -1,4 +1,4 @@
-## Solar Power Prediction with Machine Learning ##
+## Title of the project - Solar Power Prediction with Machine Learning ##
 
 ## Project Overview ##
 This project implements a complete machine learning pipeline to predict solar power production based on various meteorological and environmental factors. The goal is to develop and evaluate several regression models to identify the most accurate one for forecasting solar energy output.
