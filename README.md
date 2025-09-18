@@ -2,7 +2,7 @@
 ## Project Overview ##
 This project implements a complete machine learning pipeline to predict solar power production based on various meteorological and environmental factors. The goal is to develop and evaluate several regression models to identify the most accurate one for forecasting solar energy output.
 
-## Features ##
+🚀## Features ##
 Data Preprocessing: Handles missing values and prepares the dataset for analysis.
 
 Exploratory Data Analysis (EDA): Uses visualizations (histograms, pairplots, and heatmaps) to understand data distributions and relationships between variables.
@@ -13,7 +13,7 @@ Model Comparison: Trains and evaluates five different machine learning models to
 
 Performance Evaluation: Utilizes key metrics like Mean Squared Error (MSE) and R-squared (R2) to assess model accuracy.
 
-## Tools and Technologies ##
+🛠️## Tools and Technologies ##
 The project is built using Python and several popular data science libraries:
 
 Python: The core programming language.
@@ -69,6 +69,14 @@ Best Model: Random Forest Regressor
 R-squared (R2): 0.99
 
 Mean Squared Error (MSE): 670.78
+
+📸## Screenshots of outputs ##
+<img width="1212" height="905" alt="Screenshot 2025-09-14 171942" src="https://github.com/user-attachments/assets/e4ef5edc-d6ea-45e0-9fef-7c5db8d2e648" />
+
+-> Heatmap <img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/7a42dac4-c2f6-4fc0-ae7e-6bafb78ae4d8" />
+->
+
+
 
 License
 This project is licensed under the MIT License.
