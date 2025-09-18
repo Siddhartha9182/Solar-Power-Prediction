@@ -14,7 +14,7 @@ Model Comparison: Trains and evaluates five different machine learning models to
 
 Performance Evaluation: Utilizes key metrics like Mean Squared Error (MSE) and R-squared (R2) to assess model accuracy.
 
-🛠️## Tools and Technologies ##
+## Tools and Technologies ##
 The project is built using Python and several popular data science libraries:
 
 Python: The core programming language.
@@ -71,7 +71,7 @@ R-squared (R2): 0.99
 
 Mean Squared Error (MSE): 670.78
 
-📸## Screenshots of outputs ##
+## Screenshots of outputs ##
 -> <img width="1212" height="905" alt="Screenshot 2025-09-14 171942" src="https://github.com/user-attachments/assets/1f22d896-bfed-45ad-b2a8-e08a9ec9cc5b" />
 
 -> <img width="1352" height="674" alt="Screenshot 2025-09-18 235814" src="https://github.com/user-attachments/assets/73b27ff0-d5fa-4bd8-8b0f-3c276fab8328" />
